@@ -99,3 +99,10 @@ main p:first-child::first-letter {
   border-bottom: 2px solid #333;
   padding: .25em .125em .25em .125em;
 }
+
+figure {
+  float: right;
+  width: 35%;
+  border-top: 3px solid #333;
+  margin-right: -10em;
+}
