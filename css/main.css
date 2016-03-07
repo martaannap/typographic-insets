@@ -87,3 +87,15 @@ footer {
 */
 
 /* Write your CSS here */
+main p:first-child::first-letter {
+  color: #f2f2f2;
+  background-color: #666;
+  font-size: 5rem;
+  font-style: normal;
+  float: left;
+  margin-right: .05em;
+  margin-top: .05em;
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
+  padding: .25em .125em .25em .125em;
+}
